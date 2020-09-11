@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-const int ledPin = 13; // pin that the LED is connected to
+const int ledPin = 8; // pin that the LED is connected to
 const int buttonPin = 2; // pin that the button is connected to
 
 int buttonState = 0; // current state of button
